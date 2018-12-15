@@ -2,6 +2,7 @@
 .index-page {
     .page-header {
         height: 100vh;
+        overflow: visible;
 
         .container{
             > .content-center {
@@ -457,8 +458,6 @@
         color: $white;
         text-decoration: none;
     }
-
-
 
     .register-bg{
       height: 700px;

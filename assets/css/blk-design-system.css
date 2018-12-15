@@ -15043,6 +15043,7 @@ textarea.form-control:focus, textarea.form-control:active {
 
 .index-page .page-header {
   height: 100vh;
+  overflow: visible;
 }
 .index-page .page-header .container > .content-center.brand .h1-seo,
 .index-page .page-header .container > .content-center.brand h3 {
@@ -15425,7 +15426,7 @@ textarea.form-control:focus, textarea.form-control:active {
 .register-page .square-1 {
   height: 300px;
   width: 300px;
-  background-image: url("../../assets/img/square1.png");
+  background-image: url("../../assets/art/Portrait 1.jpg");
   top: 175px;
   right: 150px;
   opacity: 0.8;
@@ -15433,7 +15434,7 @@ textarea.form-control:focus, textarea.form-control:active {
 .register-page .square-2 {
   height: 120px;
   width: 120px;
-  background-image: url("../../assets/img/square2.png");
+  background-image: url("../../assets/art/Portrait 2.jpg");
   opacity: 0.9;
   top: 310px;
   right: 390px;
@@ -15441,7 +15442,7 @@ textarea.form-control:focus, textarea.form-control:active {
 .register-page .square-3 {
   width: 200px;
   height: 200px;
-  background-image: url("../../assets/img/square3.png");
+  background-image: url("../../assets/art/Portrait 3.jpg");
   opacity: 0.3;
   top: -50px;
   right: 400px;
@@ -15449,14 +15450,14 @@ textarea.form-control:focus, textarea.form-control:active {
 .register-page .square-4 {
   height: 200px;
   width: 200px;
-  background-image: url("../../assets/img/square4.png");
+  background-image: url("../../assets/art/Portrait 4.jpg");
   right: -50px;
   top: 525px;
 }
 .register-page .square-5 {
   height: 150px;
   width: 150px;
-  background-image: url("../../assets/img/square5.png");
+  background-image: url("../../assets/art/Portrait 5.jpg");
   opacity: 0.5;
   top: 500px;
   right: 470px;
