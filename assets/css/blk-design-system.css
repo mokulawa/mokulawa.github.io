@@ -5830,13 +5830,14 @@ button.close {
 .carousel-indicators li {
   position: relative;
   flex: 0 1 auto;
-  width: 30px;
-  height: 3px;
+  width: 6px;
+  height: 6px;
   margin-right: 3px;
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%
 }
 .carousel-indicators li::before {
   position: absolute;
@@ -15074,6 +15075,7 @@ textarea.form-control:focus, textarea.form-control:active {
   transition: 0.5s ease-out;
   overflow: hidden;
   border-radius: 100%;
+  z-index: -10;
 }
 .index-page .squares.square1 {
   animation: move-left-right 4s infinite;
@@ -18458,7 +18460,7 @@ input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget butto
   color: rgba(255, 255, 255, 0.6);
 }
 .card .card-header {
-  padding: 15px 15px 0;
+  padding: 15px 40px 0;
   border: 0;
   color: rgba(255, 255, 255, 0.8);
 }
