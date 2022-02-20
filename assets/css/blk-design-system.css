@@ -5785,6 +5785,7 @@ button.close {
 .carousel-control-next:hover,
 .carousel-control-next:focus {
   color: #ffffff;
+  background-color: #000;
   text-decoration: none;
   outline: 0;
   opacity: 0.9;
@@ -15496,6 +15497,7 @@ textarea.form-control:focus, textarea.form-control:active {
 .register-page {
   background-image: url("../../assets/img/dots.png");
   background-size: contain;
+  overflow-x: hidden;
 }
 
 @media (max-width: 991.98px) {
@@ -15559,7 +15561,7 @@ textarea.form-control:focus, textarea.form-control:active {
   font-size: 0.62475rem;
 }
 .progress-container + .progress-container, .progress-container ~ .progress-container {
-  margin-top: 15px;
+  margin-top: 32px;
 }
 .progress-container .progress-badge {
   color: #ffffff;

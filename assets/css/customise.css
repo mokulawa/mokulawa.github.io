@@ -49,33 +49,34 @@ background-color: #000000;
   background-image: url("../../assets/img/Oval.png");
   height: 1000px;
   background-position-x: center;
-  background-position-y: 30%;
+  background-position-y: 32%;
   background-repeat: no-repeat;
 }
   
 .btn-design {
-  color: #f20605;
+  color: #ffffff;
   font-weight: 800;
-  font-size: 6rem;
+  font-size: 3.5rem;
   text-transform: uppercase;
   text-align: center;
   position: relative;
-  top:50rem;
+  top:32%;
  line-height: 5rem;
+ text-decoration: underline;
 }
 
 .btn-design:hover{
-    color: #ffffff;
+    color: #e14eca;
     font-weight: 800;
-    font-size: 7rem;
+    font-size: rem;
   }
 
   .quote {
-    color:#3358f4;
+    color:#1544ff;
     font-weight: 800;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
     position: relative;
-    top:38%;
-    line-height: 2rem;
+    top:32%;
+    line-height: 3rem;
   }
