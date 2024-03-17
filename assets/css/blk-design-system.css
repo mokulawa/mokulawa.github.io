@@ -10034,7 +10034,7 @@ a.text-darker:hover, a.text-darker:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
 .text-black-50 {
@@ -18562,7 +18562,7 @@ input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget butto
   font-size: 9.5em;
   margin-left: -4px;
   font-weight: 900;
-  color: rgba(255, 255, 255, 0.2) !important;
+  color: rgba(255, 255, 255, 0.08) !important;
 }
 
 .card-chart {
